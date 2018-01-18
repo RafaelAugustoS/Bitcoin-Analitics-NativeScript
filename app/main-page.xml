@@ -1,0 +1,26 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" xmlns:Card="nativescript-cardview" navigatingTo="onNavigatingTo" class="page">
+    <Page.actionBar>
+        <ActionBar title="Bitcoin Analytics" icon="" class="action-bar">
+        </ActionBar>
+    </Page.actionBar>
+    
+    <ScrollView>
+        <StackLayout class="p-20">
+            <Label id="dateLast" class="lastText" text="" />
+            <StackLayout class="box">
+                <Label text="Maior valor de hoje" class="alignText" />
+                <Label class="titleBox" id="heghValue" text="" />
+            </StackLayout>
+
+            <StackLayout class="box">
+                <Label text="Menor valor de hoje" class="alignText" />
+                <Label class="titleBox" id="lowValue" text="" />
+            </StackLayout>
+
+            <StackLayout class="box">
+                <Label text="Melhor oferta para compra" class="alignText" />
+                <Label class="titleBox" id="sellOfert" text="" />
+            </StackLayout>
+        </StackLayout>
+    </ScrollView>       
+</Page>

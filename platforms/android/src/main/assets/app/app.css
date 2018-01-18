@@ -1,0 +1,25 @@
+﻿@import 'nativescript-theme-core/css/core.light.css';
+
+.btn {
+    font-size: 18;
+}
+
+.box{
+	width: 100%;
+	float: left;
+	background-color: #3498db;
+	height: 100;
+	color: #FFF;
+	padding: 10;
+	text-align: center;
+	margin-top: 25px;
+}
+
+.alignText{
+	text-align: center;
+}
+
+.titleBox{
+	font-size: 30;
+	text-align: center;
+}

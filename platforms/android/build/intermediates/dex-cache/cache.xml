@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafael\Documents\MeusProjetos\BitcoinTrade\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="C:\Users\Rafael\Documents\MeusProjetos\BitcoinTrade\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_2b365410e1627954268d5555eddc724c48e1432b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafael\Documents\MeusProjetos\BitcoinTrade\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Rafael\Documents\MeusProjetos\BitcoinTrade\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_1ad1cc4cc6017ae02cca8f133dc351a6e64e44be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafael\Documents\MeusProjetos\BitcoinTrade\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Rafael\Documents\MeusProjetos\BitcoinTrade\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-26.0.0-alpha1_e23d08804b2b4405b790a0c4ea3d693814ae2720.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafael\Documents\MeusProjetos\BitcoinTrade\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\Rafael\Documents\MeusProjetos\BitcoinTrade\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-26.0.0-alpha1_bcdfd12808cc41cb17621909b1db974ef9f0502a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafael\Documents\MeusProjetos\BitcoinTrade\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\Rafael\Documents\MeusProjetos\BitcoinTrade\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-26.0.0-alpha1_af64451f8c3352021944c93863eaf4a8c4bf20ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafael\Documents\MeusProjetos\BitcoinTrade\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Rafael\Documents\MeusProjetos\BitcoinTrade\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-26.0.0-alpha1_e612e42d165000284fb460c536154d4afb271d64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafael\Documents\MeusProjetos\BitcoinTrade\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Rafael\Documents\MeusProjetos\BitcoinTrade\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-26.0.0-alpha1_96679b96dcbb530840b6fad8382c37052e3e391f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafael\Documents\MeusProjetos\BitcoinTrade\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Rafael\Documents\MeusProjetos\BitcoinTrade\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-26.0.0-alpha1_257843b5e230e586efc3f750b92cec77c69390a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafael\Documents\MeusProjetos\BitcoinTrade\platforms\android\build\intermediates\exploded-aar\BitcoinTrade\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="C:\Users\Rafael\Documents\MeusProjetos\BitcoinTrade\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_319a59a56746e33cf4c9b90cbe473470e87ba248.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Rafael\Documents\MeusProjetos\BitcoinTrade\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-26.0.0-alpha1_7c88aee63584960575018a7d0454b660043aaeb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafael\Documents\MeusProjetos\BitcoinTrade\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Rafael\Documents\MeusProjetos\BitcoinTrade\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_21d8d5b1778bf59e4d8651d0e103621b65f5421e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafael\Documents\MeusProjetos\BitcoinTrade\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Rafael\Documents\MeusProjetos\BitcoinTrade\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-26.0.0-alpha1_b516196e11c5490a85ca8198f826a263169a2654.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafael\Documents\MeusProjetos\BitcoinTrade\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Rafael\Documents\MeusProjetos\BitcoinTrade\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-26.0.0-alpha1_d8e6cd5f4cbcbcd67d39207123b15339f25a1f98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafael\Documents\MeusProjetos\BitcoinTrade\platforms\android\build\intermediates\exploded-aar\BitcoinTrade\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eb6078500d1af5e7b663871706674405c57292a3">
+        <dex dex="C:\Users\Rafael\Documents\MeusProjetos\BitcoinTrade\platforms\android\build\intermediates\pre-dexed\F0\debug\BitcoinTrade-runtime-unspecified_b55dc5017d0abc75da38b3f0592c524606596460.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafael\Documents\MeusProjetos\BitcoinTrade\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Rafael\Documents\MeusProjetos\BitcoinTrade\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-26.0.0-alpha1_028a456ca3376b89e5fd94637385175002064b11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafael\Documents\MeusProjetos\BitcoinTrade\platforms\android\build\intermediates\exploded-aar\com.android.support\design\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\Rafael\Documents\MeusProjetos\BitcoinTrade\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-26.0.0-alpha1_a6e8846bebe4e4c919acf61e1d0b6362608fee92.jar" />
+    </item>
+
+</items>

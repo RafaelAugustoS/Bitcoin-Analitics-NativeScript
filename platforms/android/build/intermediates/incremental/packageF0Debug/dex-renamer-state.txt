@@ -1,0 +1,4 @@
+#Thu Jan 18 15:37:00 BRST 2018
+base.0=C\:\\Users\\Rafael\\Documents\\MeusProjetos\\BitcoinTrade\\platforms\\android\\build\\intermediates\\transforms\\dex\\F0\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Rafael\\Documents\\MeusProjetos\\BitcoinTrade\\platforms\\android\\build\\intermediates\\transforms\\dex\\F0\\debug\\folders\\1000\\1f\\main\\classes.dex
