@@ -4,6 +4,10 @@
     font-size: 18;
 }
 
+.bg{
+	background-color: #F5F5F5;
+}
+
 .box{
 	width: 100%;
 	float: left;
@@ -15,6 +19,17 @@
 	margin-top: 25px;
 }
 
+.titlePage{
+	font-size: 30;
+	color: black;
+}
+
+.subTitlePage{
+	color: #AAA;
+	font-size: 13;
+	font-weight: 300;
+}
+
 .alignText{
 	text-align: center;
 }
@@ -22,4 +37,31 @@
 .titleBox{
 	font-size: 30;
 	text-align: center;
+}
+
+.round{
+	width: 150;
+	height: 150;
+	background-color: rgba(231, 76, 60, 0.8);
+	border-radius: 100%;
+	text-align: center;
+	color: #FFF;
+	padding-top: 50;
+	margin-top: 8;
+}
+
+.roundTitle{
+	font-weight: 300;
+}
+
+.roundValue{
+	font-size: 25;
+}
+
+.borderRound{
+	width: 165;
+	height: 165;
+	border-radius: 100%;
+	background-color: rgba(255, 255, 255, 0.5);
+	margin-top: 30;
 }

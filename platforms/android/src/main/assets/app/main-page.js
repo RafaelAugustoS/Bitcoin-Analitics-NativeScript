@@ -1,30 +1,40 @@
 var http = require("http")
+var view = require("ui/core/view");
 
 function onNavigatingTo(args) {
     var page = args.object;
-
-    setInterval(() => {
-        getValues()
-    }, 5000)
+    page.actionBarHidden = true
+    getValues()
+    oferts(page)
+    
 
     // Get values last 24h
     function getValues(){
         http.getJSON("https://api.bitcointrade.com.br/v1/public/BTC/ticker")
         .then(res => {
-            console.log(JSON.stringify(res))
-            page.getViewById('heghValue').text = 'R$ ' + res.data.high
-            page.getViewById('lowValue').text = 'R$ ' + res.data.low
-            page.getViewById('sellOfert').text = 'R$ ' + res.data.sell
-            page.getViewById('dateLast').text = 'Ultima atualização: ' + res.data.date
+            page.getViewById('sellOfert').text =  formatReal(res.data.sell)
         })
         .catch(err => {
             console.log('Erro')
         })
     }
 
+    function oferts(page){
+        http.getJSON('https://api.bitcointrade.com.br/v1/public/BTC/orders')
+        .then(res => {
+            page.bindingContext = res.data
+            var listView1 = view.getViewById(page, "listView1");
+        })
+        .catch(err => {
+            console.log('Erro')
+        })
+    }
+
+    function formatReal(int){
+        return int.toFixed(2).replace('.', ',').replace(/(\d)(?=(\d{3})+\,)/g, "$1.")
+    }
+
 }
-
-
 
 
 exports.onNavigatingTo = onNavigatingTo;
